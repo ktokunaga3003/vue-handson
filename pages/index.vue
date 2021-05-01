@@ -6,6 +6,7 @@
     </div>
     <!-- <input type="text" v-model="text" /> -->
     <!-- {{ upperCase }} -->
+    <Cardd>
   </div>
 </template>
 

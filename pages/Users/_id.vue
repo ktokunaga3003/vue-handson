@@ -1,3 +1,7 @@
 <template>
-  <div>id</div>
+  <div>{{ username }}</div>
 </template>
+
+<script lang="ts">
+  
+</script>
