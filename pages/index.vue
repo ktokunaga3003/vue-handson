@@ -6,7 +6,8 @@
     </div>
     <!-- <input type="text" v-model="text" /> -->
     <!-- {{ upperCase }} -->
-    <Cardd>
+    <Card></Card>
+    <NuxtLink to="/detail">detail</NuxtLink>
   </div>
 </template>
 
